@@ -11,7 +11,7 @@ The objective of this course is to provide students with both theoretical knowle
 - Overview of sensor technologies and their behavior  
 - Construction of complete instrumentation systems  
 - Development of virtual instruments for measurement and control  
-- Use of data acquisition devices (e.g., **myDAQ**)  
+- Use of data acquisition devices (e.g., myDAQ)  
 - Programming for data acquisition and data presentation in LabVIEW and MATLAB  
 
 The course combines theoretical lectures with hands-on laboratory exercises and project work. Students develop practical skills in constructing instrumentation systems and analyzing sensor data, preparing them for real-world applications.
