@@ -1,4 +1,4 @@
-# IELET2112 Anvendt Instrumentering
+# IELET2112 Applied instrumentation
 
 ## Course Overview
 
